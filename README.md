@@ -1,2 +1,2 @@
-# excercise-1
+# exercise-1
 okey
